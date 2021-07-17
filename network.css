@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0px 0px 0px 0px;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body {
+   font-size: 10px;
+}
+
+.navbar {
+  font-family: 'Lustria', serif;
+  font-weight: bold;
+  font-size :1.5em;
+  color: white;
+  
+ 
+}
+.nav-item {
+  color: white;
+  font-weight: bold;
+}
+.nav-item:hover {
+  border-bottom: 4px solid red;
+  color:white;
+}
+  .upper1 h1 {
+    text-align: center;
+    margin-top: 150px;
+    font-family: 'Lustria', serif;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+.nt-container {
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+.nt-container img {
+  width:50%;
+  width: 500px;
+height: 400px;
+border-radius: 50px; 
+margin-top: 50px;
+border: 2px solid black;
+-moz-box-shadow: 10px 10px 5px #ccc;
+-webkit-box-shadow: 10px 10px 5px #ccc;
+box-shadow: 10px 10px 5px #ccc;
+-moz-border-radius:25px;
+-webkit-border-radius:25px;
+border-radius:25px;
+}
+
+.col h2 {
+  margin-top: 150px;
+}
+.col p {
+        text-align: justify;
+}
+
+
+
+
+
+  @media only screen and (max-width: 768px) {
+
+  
+  
+  
+    .nt-container img {
+     margin-top : 50px;
+     width: 300px;
+     height: 200px;
+     
+    
+  }
+  .nt-container h2 {
+    margin: 50px 0px 0px 0px;
+  }
+  .nt-container p {
+    margin: 50px 0px 0px 0px;
+
+  }
+.nt-container {
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+  
+  }
+  
