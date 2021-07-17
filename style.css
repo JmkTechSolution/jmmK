@@ -754,3 +754,17 @@ margin-bottom: 10px;
 
    
 }   
+
+@media (max-width: 575.98px) { 
+   .middle-container1 img {
+       margin : 0px 50px 0px 50px;
+   }
+
+   .center a {
+      display: block;
+      margin-right: 315px;
+      padding: 2px 12px;
+      margin-top: 10px;
+   }
+
+}
