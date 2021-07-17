@@ -119,3 +119,18 @@ font-family: 'Lato', sans-serif;
     
 }
 }
+@media (max-width: 575.98px) {
+   .upper1 img {
+      height: 250px;
+      width: 300px;
+   }      
+
+   .upper1 h2 {
+     margin-top : 30px;
+   }
+   .upper1 p {
+      margin-top: 10px;
+      margin-left: 10px;
+      margin-right: 10px;
+   }
+ }
