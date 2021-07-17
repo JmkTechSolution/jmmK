@@ -17,7 +17,7 @@ body {
   background-image: linear-gradient( 90deg, rgb(91, 103, 231),rgba(69,200,150, 0.4 )), url('.//images/pic8.jpg');
   background-size: cover;
   
-  height: 100vh;
+  height: 100%;
 
 }
 .navbar {
@@ -202,7 +202,7 @@ hr {
 
 .cnt {
  
-  height: 100vh;
+  height: 100%;
   background-size: cover;
 }
 .cnt h1 {
@@ -218,15 +218,6 @@ hr {
   
 } 
 
-.conts {
-          
-    
-     height: 100vh;
-  background-color: white;
-   background-size: cover;
-
-
-}
 .conts h1{
 font-size: 40px;
 font-weight: bold;
